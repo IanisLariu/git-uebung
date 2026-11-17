@@ -9,3 +9,5 @@ Das ist meine erste Änderung.
 Diese Änderung wurde im Branch feature-test erstellt.
 
 Ich lerne, wie Git Branches funktionieren.
+
+Ich habe Git Push gelernt.
