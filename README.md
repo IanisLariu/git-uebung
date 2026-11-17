@@ -1,6 +1,6 @@
 ## Meine Git-Übung
 
-Ich lerne Git mit meinem Konflikt-Branch.
+Ich lerne Git mit beiden Branches.
 
 Das ist meine erste Änderung.
 
