@@ -11,3 +11,5 @@ Diese Änderung wurde im Branch feature-test erstellt.
 Ich lerne, wie Git Branches funktionieren.
 
 Ich habe Git Push gelernt.
+
+Ich habe Git Pull gelernt.
