@@ -1,6 +1,6 @@
 ## Meine Git-Übung
 
-Ich lerne Git direkt im Main-Branch.
+Ich lerne Git mit beiden Branches.
 
 Das ist meine erste Änderung.
 
